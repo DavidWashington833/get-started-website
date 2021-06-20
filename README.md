@@ -1,24 +1,19 @@
 # get-started-website
 
-Simple base project for website.
+Setup to get started landing pages with Webpack, SCSS and babel.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-You need to have [NodeJS](https://nodejs.org/en/).
-
-### Running the server
-
-To start you only need these 2 commands in the root folder.
+These instructions will help you run on your local machine.
 ```
 yarn
 yarn dev
 ```
 
-To build use `yarn build`.
+## Scripts
+
+- `yarn build` -> Build landing page to `dist` folder.
+- `yarn dev` -> Run application and reload with changes.
 
 ## License
 
