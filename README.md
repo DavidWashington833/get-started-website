@@ -1,6 +1,6 @@
 # get-started-website
 
-Setup to get started landing pages with Webpack, SCSS and babel.
+Setup to get started landing pages with Webpack, SCSS and Babel.
 
 ## Getting Started
 
